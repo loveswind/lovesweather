@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="loves_weather" />
+    <version value="1" />
+    <list>
+        <mapping class="com.loveswind.androidlearning.lovesweather.db.Province" />
+        <mapping class="com.loveswind.androidlearning.lovesweather.db.City" />
+        <mapping class="com.loveswind.androidlearning.lovesweather.db.County" />
+    </list>
+</litepal>
